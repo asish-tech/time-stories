@@ -2,7 +2,7 @@
 # time-stories
 
 This project is done by using Cheerio npm package for html parsing.
-In order to run this project type npm install in cmd/bash
+In order to run this project type npm install in cmd/bash.     
 Service URL - http://localhost:8080/getTimeStories
 
 Response format - [
